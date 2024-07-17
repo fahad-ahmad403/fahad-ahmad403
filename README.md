@@ -1,7 +1,7 @@
 <h1 align="center">🤝Assalam o Alaikum (السَّلاَمُ عَلَيْكُمْ) @fahad-ahmad403</h1>
 <h3 align="center">I am a frontend developer</h3>
 
-<img align="right" width="400px" controls autoplay src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation">
+<video align="right" width="400px" controls autoplay src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"></video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad-ahmad403&label=Profile%20views&color=0e75b6&style=flat" alt="fahad-ahmad403" /> </p>
 
