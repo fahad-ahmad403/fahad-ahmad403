@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png) 
+![github-header-image align="center"](https://github.com/user-attachments/assets/3926dde9-1dae-4d57-b349-1b0a81412460)
 <h1 align="center">FAHAD AHMAD</h1>
 <h3 align="center">I am a front-end developer specializing in creating responsive <br> and visually appealing websites</h3>
 
