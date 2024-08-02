@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png) 
 <h1 align="center">FAHAD AHMAD</h1>
 <h3 align="center">I am a front-end developer specializing in creating responsive <br> and visually appealing websites</h3>
 
