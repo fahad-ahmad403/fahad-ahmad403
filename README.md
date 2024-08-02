@@ -1,4 +1,4 @@
-<h1 align="center">🤝Assalam o Alaikum (السَّلاَمُ عَلَيْكُمْ) @fahad-ahmad403</h1>
+<h1 align="center">fahad-ahmad403</h1>
 <h3 align="center">I am a front-end developer specializing in creating responsive <br> and visually appealing websites</h3>
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation">
