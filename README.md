@@ -1,6 +1,6 @@
-![github-header-image (2)](https://github.com/user-attachments/assets/dda349f3-23b4-479a-8588-dfa2e9180e81)
+!![github-header-image (3)](https://github.com/user-attachments/assets/028aa0c6-e07b-43b3-9649-ae75576f6d82)
 
-<h1align="center">FAHAD AHMAD</h1>
+<h1 align="center">FAHAD AHMAD</h1>
 <h3 align="center">I am a front-end developer specializing in creating responsive <br> and visually appealing websites</h3>
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation">
