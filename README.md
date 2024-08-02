@@ -1,4 +1,4 @@
-!![github-header-image (3)](https://github.com/user-attachments/assets/028aa0c6-e07b-43b3-9649-ae75576f6d82)
+![github-header-image (3)](https://github.com/user-attachments/assets/028aa0c6-e07b-43b3-9649-ae75576f6d82)
 
 <h1 align="center">FAHAD AHMAD</h1>
 <h3 align="center">I am a front-end developer specializing in creating responsive <br> and visually appealing websites</h3>
