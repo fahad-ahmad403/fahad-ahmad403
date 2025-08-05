@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/fahad-ahmad-246477302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ahmad-246477302" height="30" width="40" /></a>
 </p>
 
-  <a align="left">
+  <p align="left">
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
@@ -37,24 +37,22 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <p>CSS</p>
   </a>
-  </a>
-  <a align="right">
   <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <p>Git</p>
+    Git
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <p>Vercel</p>
+    Vercel
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <p>Vite</p>
+    Vite
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <p>Figma</p>
+    Figma
   </a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-    <p>GSAP</p>
+    GSAP
   </a>
-  </a>
+  </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-ahmad403&" alt="fahad-ahmad403" /></p>
