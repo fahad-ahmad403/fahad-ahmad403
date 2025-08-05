@@ -1,5 +1,5 @@
 <h1 align="center">FAHAD AHMAD</h1>
-<h3 align="center">I am a React Developer building fast, scalable, and <br> performance driven websites</h3>
+<h3 align="center">I am a React Developer build fast, scalable, and <br> performance driven websites</h3>
 
 <img align="right" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="animation">
 
@@ -20,10 +20,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+    <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/TailwindLogo-Bpi6h3oO.svg" alt="tailwindcss" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
@@ -41,16 +41,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/VercelLogo-DuryPqMU.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vite" width="40" height="40"/>
+    <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="gsap" width="40" height="40"/>
+    <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/GSAPLogo-C4FBdFmo.svg" alt="gsap" width="40" height="40"/>
   </a>
 </div>
 
