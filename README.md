@@ -17,25 +17,25 @@
   <p align="left">
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <p>React Js</p>
+    React Js 
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <p>Next Js</p>
+    Next Js-
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <p>Tailwind CSS</p>
+    Tailwind CSS
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <p>Typescript</p>
+    Typescript
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <p>JavaScript</p>
+    JavaScript
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <p>HTML</p>
+    HTML
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <p>CSS</p>
+    CSS
   </a>
   <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
