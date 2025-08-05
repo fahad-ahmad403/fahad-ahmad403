@@ -20,6 +20,9 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
   </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <p>React Js</p>
+  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <p>Next Js</p>
   </a>
