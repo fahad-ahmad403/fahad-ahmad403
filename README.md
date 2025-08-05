@@ -14,14 +14,13 @@
 <a href="https://linkedin.com/in/fahad-ahmad-246477302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ahmad-246477302" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <p>Languages</p>
+  <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <p>Next Js</p>
+    <p>- Next Js</p>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <p>Tailwind CSS</p>
@@ -38,7 +37,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <p>CSS</p>
   </a>
-  <p>Tools</p>
+  <span>
+  <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <p>Git</p>
   </a>
@@ -54,6 +54,7 @@
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
     <p>GSAP</p>
   </a>
+  </span>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-ahmad403&" alt="fahad-ahmad403" /></p>
