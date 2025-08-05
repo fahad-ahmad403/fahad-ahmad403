@@ -16,8 +16,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a></a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    React Js
+    <p>React Js</p>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <p>Next Js</p>
@@ -35,22 +36,22 @@
     <p>HTML</p>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    CSS
+    <p>CSS</p>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    Git
+    <p>Git</p>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    Vercel
+    <p>Vercel</p>
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    Vite
+    <p>Vite</p>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    Figma
+    <p>Figma</p>
   </a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-    GSAP
+    <p>GSAP</p>
   </a>
 </p>
 
