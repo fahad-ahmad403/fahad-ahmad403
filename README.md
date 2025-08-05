@@ -17,38 +17,38 @@
   <p align="left">
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    React Js 
+    React Js -
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    Next Js-
+    Next Js -
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    Tailwind CSS
+    Tailwind CSS -
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    Typescript
+    Typescript -
   </a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    JavaScript
+    JavaScript -
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    HTML
+    HTML -
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     CSS
   </a>
   <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    Git
+    Git -
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    Vercel
+    Vercel -
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    Vite
+    Vite -
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    Figma
+    Figma -
   </a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
     GSAP
