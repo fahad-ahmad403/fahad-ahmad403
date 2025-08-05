@@ -14,7 +14,6 @@
 <a href="https://linkedin.com/in/fahad-ahmad-246477302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ahmad-246477302" height="30" width="40" /></a>
 </p>
 
-<p>
   <span align="left">
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
@@ -57,6 +56,5 @@
     <p>GSAP</p>
   </a>
   </span>
-</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-ahmad403&" alt="fahad-ahmad403" /></p>
