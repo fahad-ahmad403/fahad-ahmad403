@@ -15,12 +15,13 @@
 </p>
 
 <p align="left">
+  <span>
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <p>- Next Js</p>
+    <p>Next Js</p>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <p>Tailwind CSS</p>
@@ -37,6 +38,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <p>CSS</p>
   </a>
+  </span>
   <span>
   <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
