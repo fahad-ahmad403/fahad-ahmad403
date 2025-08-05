@@ -15,12 +15,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <p>React Js</p>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/32/1/next-js-logo-png_seeklogo-321806.png" alt="nextjs" width="40" height="40"/>
+    <p>Next Js</p>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/TailwindLogo-Bpi6h3oO.svg" alt="tailwindcss" width="40" height="40"/>
@@ -52,6 +52,6 @@
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
     <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/GSAPLogo-C4FBdFmo.svg" alt="gsap" width="40" height="40"/>
   </a>
-</div>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahad-ahmad403&" alt="fahad-ahmad403" /></p>
