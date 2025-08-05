@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <p>React Js</p>
+    React Js
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <p>Next Js</p>
@@ -38,19 +38,19 @@
     CSS
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+    Git
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/VercelLogo-DuryPqMU.svg" alt="vercel" width="40" height="40"/>
+    Vercel
   </a>
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vite.dev/logo.svg" alt="vite" width="40" height="40"/>
+    Vite
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+    Figma
   </a>
   <a href="https://gsap.com/" target="_blank" rel="noreferrer">
-    <img src="https://fahad-ahmad403.github.io/Portfolio-Website/assets/GSAPLogo-C4FBdFmo.svg" alt="gsap" width="40" height="40"/>
+    GSAP
   </a>
 </p>
 
