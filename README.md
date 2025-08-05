@@ -16,10 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <p>React Js</p>
-  </a>
+  <p>Languages</p>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
   </a>
@@ -41,6 +38,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <p>CSS</p>
   </a>
+  <p>Tools</p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <p>Git</p>
   </a>
