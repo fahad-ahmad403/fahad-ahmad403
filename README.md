@@ -14,8 +14,8 @@
 <a href="https://linkedin.com/in/fahad-ahmad-246477302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad-ahmad-246477302" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <span>
+<p>
+  <span align="left">
   <h3>Languages:</h3>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <p>React Js</p>
@@ -39,7 +39,7 @@
     <p>CSS</p>
   </a>
   </span>
-  <span>
+  <span align="right">
   <h3>Tools:</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <p>Git</p>
